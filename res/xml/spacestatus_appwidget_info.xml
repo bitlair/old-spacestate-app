@@ -3,5 +3,5 @@
     android:minHeight="72dp"
     android:updatePeriodMillis="86400000"
     android:initialLayout="@layout/spacestatus_appwidget"
-    android:configure="com.sonologic.spacestatus.WidgetConfiguration">
+    android:configure="com.bitlair.spacestatus.WidgetConfiguration">
 </appwidget-provider>
